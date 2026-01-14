@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note_Template/デイリー学習ノート_テンプレート.md",
+                "file": "Viteとは何？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "デイリー学習ノート_テンプレート"
+              "title": "Viteとは何？"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note_Template/デイリー学習ノート_テンプレート.md",
+                "file": "Viteとは何？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "デイリー学習ノート_テンプレートへのバックリンク"
+              "title": "Viteとは何？へのバックリンク"
             }
           },
           {
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "デイリー学習ノート_テンプレートのアウトライン"
             }
+          },
+          {
+            "id": "ee3c760fb18dacbd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +190,18 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "4e95304746353e01",
+  "active": "762d4c25e9de01e3",
   "lastOpenFiles": [
-    "ロードマップ.md",
+    "学習ノート/2026-01-14.md",
+    "Viteとは何？.md",
     "Note_Template/デイリー学習ノート_テンプレート.md",
+    "ロードマップ.md",
     "学習ノート",
     "README.md",
     "Note_Template"
