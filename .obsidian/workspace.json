@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/daily-notes.json",
-                "bFile": ".obsidian/daily-notes.json",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: daily-notes.json"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "894d9af57c306f11",
   "lastOpenFiles": [
-    "Note_Template/デイリー学習ノート_テンプレート.md",
     "日報/2026-01-18.md",
+    "Note_Template/デイリー学習ノート_テンプレート.md",
     "学習ノート/アロー関数.md",
     "学習ノート/Viteとは何？.md",
     "日報/2026-01-14.md",
