@@ -11,14 +11,10 @@
             "id": "894d9af57c306f11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Viteとは何？.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Viteとは何？"
+              "title": "新規タブ"
             }
           }
         ]
@@ -176,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -196,10 +192,15 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "762d4c25e9de01e3",
+  "active": "894d9af57c306f11",
   "lastOpenFiles": [
-    "学習ノート/2026-01-14.md",
+    "アロー関数.md",
+    "学習ノート/アロー関数.md",
+    "学習ノート/Viteとは何？.md",
+    "日報/2026-01-14.md",
+    "日報",
     "Viteとは何？.md",
+    "学習ノート/2026-01-14.md",
     "Note_Template/デイリー学習ノート_テンプレート.md",
     "ロードマップ.md",
     "学習ノート",
