@@ -11,10 +11,14 @@
             "id": "894d9af57c306f11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/daily-notes.json",
+                "bFile": ".obsidian/daily-notes.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: daily-notes.json"
             }
           }
         ]
@@ -172,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,14 +198,15 @@
   },
   "active": "894d9af57c306f11",
   "lastOpenFiles": [
-    "アロー関数.md",
+    "Note_Template/デイリー学習ノート_テンプレート.md",
+    "日報/2026-01-18.md",
     "学習ノート/アロー関数.md",
     "学習ノート/Viteとは何？.md",
     "日報/2026-01-14.md",
+    "アロー関数.md",
     "日報",
     "Viteとは何？.md",
     "学習ノート/2026-01-14.md",
-    "Note_Template/デイリー学習ノート_テンプレート.md",
     "ロードマップ.md",
     "学習ノート",
     "README.md",
