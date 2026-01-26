@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9e99fc690896c4",
+        "id": "a664f0febca61023",
         "type": "tabs",
         "children": [
           {
-            "id": "894d9af57c306f11",
+            "id": "5ffecbb806293434",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "日報/2026-01-24.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "2026-01-24"
             }
           }
         ]
@@ -196,20 +196,25 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "894d9af57c306f11",
+  "active": "5ffecbb806293434",
   "lastOpenFiles": [
+    "学習ノート/eventオブジェクトについて.md",
+    "日報/2026-01-24.md",
+    "学習ノート/useStateのデータの流れ.md",
+    "学習ノート/JSONについて.md",
     "日報/2026-01-18.md",
-    "Note_Template/デイリー学習ノート_テンプレート.md",
-    "学習ノート/アロー関数.md",
-    "学習ノート/Viteとは何？.md",
+    "日報/2026-01-19.md",
+    "ロードマップ.md",
+    "README.md",
     "日報/2026-01-14.md",
+    "学習ノート/Viteとは何？.md",
+    "学習ノート/アロー関数.md",
+    "Note_Template/デイリー学習ノート_テンプレート.md",
     "アロー関数.md",
     "日報",
     "Viteとは何？.md",
     "学習ノート/2026-01-14.md",
-    "ロードマップ.md",
     "学習ノート",
-    "README.md",
     "Note_Template"
   ]
 }
