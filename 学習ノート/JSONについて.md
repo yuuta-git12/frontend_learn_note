@@ -8,5 +8,5 @@
 
 ## JSON関係のメソッド
 - [JSON.stringify()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
-	- 引数の文字列をJSON形式に変換するメソッド
+	- 引数の文字列をJSON形式のテキストとして得るためのメソッド
 - 

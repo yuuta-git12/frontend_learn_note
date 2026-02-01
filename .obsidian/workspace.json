@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日報/2026-01-24.md",
+                "file": "useEffectって何?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-24"
+              "title": "useEffectって何?"
             }
           }
         ]
@@ -198,10 +198,15 @@
   },
   "active": "5ffecbb806293434",
   "lastOpenFiles": [
-    "学習ノート/eventオブジェクトについて.md",
+    "日報/2026-02-01.md",
+    "日報/2026-01-26.md",
+    "useEffectって何?.md",
+    "Note_Template/デイリー学習ノート_テンプレート.md",
+    "学習ノート/Reactのいいところ.md",
     "日報/2026-01-24.md",
-    "学習ノート/useStateのデータの流れ.md",
     "学習ノート/JSONについて.md",
+    "学習ノート/eventオブジェクトについて.md",
+    "学習ノート/useStateのデータの流れ.md",
     "日報/2026-01-18.md",
     "日報/2026-01-19.md",
     "ロードマップ.md",
@@ -209,7 +214,6 @@
     "日報/2026-01-14.md",
     "学習ノート/Viteとは何？.md",
     "学習ノート/アロー関数.md",
-    "Note_Template/デイリー学習ノート_テンプレート.md",
     "アロー関数.md",
     "日報",
     "Viteとは何？.md",
